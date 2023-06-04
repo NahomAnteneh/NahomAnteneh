@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NahomAnteneh
+- <h1>👋 Hello </h1> I’m @NahomAnteneh
 - 👀 I’m interested in machine learning and AI. and also game development.
 - 🌱 I’m currently Studying Computer Science.
 
