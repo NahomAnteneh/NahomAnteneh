@@ -1,6 +1,7 @@
-- <h1>👋 Hello </h1> I’m @NahomAnteneh
+- 👋 Hi I’m @NahomAnteneh
 - 👀 I’m interested in machine learning and AI. and also game development.
-- 🌱 I’m currently Studying Computer Science.
+- 🧑‍🏫 I’m currently Studying Computer Science.
+- 🙋 Ready to collaborate at any time.
 
 ### Languages 
  [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/NahomAnteneh)  [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/NahomAnteneh)  [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/NahomAnteneh)  [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/NahomAnteneh) [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/NahomAnteneh)   [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/NahomAnteneh)  [![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP)](https://github.com/NahomAnteneh) 
