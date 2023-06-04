@@ -11,3 +11,7 @@
  [![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com/NahomAnteneh) 
  [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/NahomAnteneh) 
  [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/NahomAnteneh)
+
+### GAME
+
+ [![OpenCv](https://img.shields.io/badge/OpenCv-black?style=for-the-badge&logo=OpenCv)](https://github.com/NahomAnteneh) 
