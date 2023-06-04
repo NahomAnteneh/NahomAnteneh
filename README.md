@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NahomAnteneh
-- 👀 I’m interested in machine learning and AI.
-- 🌱 I’m currently learning Computer Science.
+- 👀 I’m interested in machine learning and AI. and also game development.
+- 🌱 I’m currently Studying Computer Science.
