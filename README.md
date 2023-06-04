@@ -14,4 +14,4 @@
 
 ### GAME
 
- [![OpenCv](https://img.shields.io/badge/OpenCv-black?style=for-the-badge&logo=OpenCv)](https://github.com/NahomAnteneh) 
+ [![OpenCv](https://img.shields.io/badge/OpenCv-black?style=for-the-badge&logo=OpenCv)](https://github.com/NahomAnteneh) [![OpenGL](https://img.shields.io/badge/OpenGL-black?style=for-the-badge&logo=OpenGL)](https://github.com/NahomAnteneh) 
