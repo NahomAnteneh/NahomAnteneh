@@ -14,4 +14,4 @@
 
 ### GAME
 
- [![OpenCv](https://img.shields.io/badge/OpenCv-black?style=for-the-badge&logo=OpenCv)](https://github.com/NahomAnteneh) [![OpenGL](https://img.shields.io/badge/OpenGL-black?style=for-the-badge&logo=OpenGL)](https://github.com/NahomAnteneh)  [![Panda3D](https://img.shields.io/badge/Panda3D-black?style=for-the-badge&logo=Panda3D)](https://github.com/NahomAnteneh) 
+ [![OpenCv](https://img.shields.io/badge/OpenCv-black?style=for-the-badge&logo=OpenCv)](https://github.com/NahomAnteneh) [![OpenGL](https://img.shields.io/badge/OpenGL-black?style=for-the-badge&logo=OpenGL)](https://github.com/NahomAnteneh)  [![GLFW](https://img.shields.io/badge/GLFW-black?style=for-the-badge&logo=GLFW)](https://github.com/NahomAnteneh) 
